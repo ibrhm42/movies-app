@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imdb/static/css/main.25bb5bfc.chunk.css",
+    "main.js": "/imdb/static/js/main.1ea831ea.chunk.js",
+    "main.js.map": "/imdb/static/js/main.1ea831ea.chunk.js.map",
+    "runtime-main.js": "/imdb/static/js/runtime-main.4044208f.js",
+    "runtime-main.js.map": "/imdb/static/js/runtime-main.4044208f.js.map",
+    "static/js/2.286a7748.chunk.js": "/imdb/static/js/2.286a7748.chunk.js",
+    "static/js/2.286a7748.chunk.js.map": "/imdb/static/js/2.286a7748.chunk.js.map",
+    "index.html": "/imdb/index.html",
+    "precache-manifest.eacf1366380cc9a871f21f4160922991.js": "/imdb/precache-manifest.eacf1366380cc9a871f21f4160922991.js",
+    "service-worker.js": "/imdb/service-worker.js",
+    "static/css/main.25bb5bfc.chunk.css.map": "/imdb/static/css/main.25bb5bfc.chunk.css.map",
+    "static/js/2.286a7748.chunk.js.LICENSE.txt": "/imdb/static/js/2.286a7748.chunk.js.LICENSE.txt",
+    "static/media/tom-cruise.jpg": "/imdb/static/media/tom-cruise.fa275866.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4044208f.js",
+    "static/js/2.286a7748.chunk.js",
+    "static/css/main.25bb5bfc.chunk.css",
+    "static/js/main.1ea831ea.chunk.js"
+  ]
+}
